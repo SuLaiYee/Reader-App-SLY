@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="book_description">ဆရာၾကီး ျမသန္းတင့္ကိုပခုကၠဴခရိုင္၊ျမိဳင္ျမိဳ.တြင္အဖအမိန္.ေတာ္ရ ေရွ.ေနဦးေပၚတင္.၊အမိေဒၚလိႈင္တို.မွ၁၉၂၉ခုႏွစ္တြင္ ေမြးဖြားသည္ ။ငယ္စဥ္က ျမိဳင္ျမဳ.တိုင္းရင္းျမန္မာေက်ာင္း တို.တြင္ ပညာသင္ၾကားခဲ့သည္ ။ ၁၉၄၇ ခုႏွစ္တြင္ ၀ိဇၨာဘြဲ.ရခဲ့သည္ ၊</string>
+    <string name="title">ျမသန္းတင့္ - ဓားေတာင္ကုိေက်ာ္၍ မီးပင္လယ္ကုိျဖတ္မည္</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+</resources>

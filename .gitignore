@@ -63,3 +63,15 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+app/src/androidTest/java/com/padcmyanmar/myapplication/ExampleInstrumentedTest.java
+app/proguard-rules.pro
+app/build.gradle
+app/.gitignore
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+app/src/test/java/com/padcmyanmar/myapplication/ExampleUnitTest.java
+settings.gradle
+gradlew.bat
+gradlew
+gradle.properties
+build.gradle
